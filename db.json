@@ -3,12 +3,8 @@
         {
             "name": "Robert Lewandosky",
             "age": "34",
-            "telf": "696123456"
-        }
-        {
-            "name": "Victor Illanas",
-            "age": "34",
-            "telf": "696123456"
+            "telf": "696123456",
+            "telf2": "696123456"
         }
     ]
 }
