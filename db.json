@@ -1,10 +1,64 @@
 {
     "jugadors": [
         {
-            "name": "Robert Lewandosky",
-            "age": "34",
-            "telf": "696123456",
-            "telf2": "696123456"
+            "nombre": "Jose Manuel Pinto",
+            "equipo": "Barcelona"
+        }
+        {
+            "nombre": "Eric García",
+            "equipo": "Barcelona"
+        }
+        {
+            "nombre": "Carles Puyol",
+            "equipo": "Barcelona"
+        }
+        {
+            "nombre": "Xavi Hernández",
+            "equipo": "Barcelona"
+        }
+        {
+            "nombre": "Dominic Toreto",
+            "equipo": "Barcelona"
+        }
+        {
+            "nombre": "Alex Song",
+            "equipo": "Madrid"
+        }
+        {
+            "nombre": "Leonidas Messi",
+            "equipo": "Madrid"
+        }
+        {
+            "nombre": "Jesús de Nazareno",
+            "equipo": "Madrid"
+        }
+{
+            "nombre": "Jaume Bona Nit",
+            "equipo": "Madrid"
+        }
+        {
+            "nombre": "Javier Prades Batalla",
+            "equipo": "Madrid"
+        }
+        {
+            "nombre": "Koldo Volkov",
+            "equipo": "Malaga"
+        }
+        {
+            "nombre": "Oswaldo Rodríguez",
+            "equipo": "Malaga"
+        }
+        {
+            "nombre": "Antonio José",
+            "equipo": "Malaga"
+        }
+        {
+            "nombre": "Carlos Sobera",
+            "equipo": "Malaga"
+        }
+        {
+            "nombre": "Mariano Delgado",
+            "equipo": "Malaga"
         }
     ]
 }
